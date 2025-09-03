@@ -1,11 +1,10 @@
 [project]
-name = "c23186-ordenamientos"
+name = "C23186-ordenamientos"
 version = "0.1.0"
-description = "Add your description here"
+description = "Proyecto de análisis de algoritmos de ordenamiento con contadores"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.11"
 dependencies = [
-    "matplotlib>=3.10.6",
-    "numpy>=2.3.2",
-    "pandas>=2.3.2",
+    "matplotlib",
+    "numpy",
 ]
